@@ -1,2 +1,2 @@
 # agro-project
-This is agro project repository
+This is an e-Commerce platform for farmers to sell their products at better rates and buyers can purchase those products via website. Admin, farmers and customers will have their own accounts to do all activities. Admin can manage farmers and customers. This will provide an efficient and robust alternative for agricultural trading. In future, this particular platform can also be used for educating farmers, connecting them with each other etc. Technologies Used : Spring Boot, ReactJs, MySQL.
